@@ -62,7 +62,7 @@
 Если у вас возникли вопросы по процессу удаления данных:
 
 - 📧 **Email:** [adamtechkg@gmail.com](mailto:adamtechkg@gmail.com)
-- 📄 **Политика конфиденциальности:** https://joji3110.github.io/privacy-policy-aivio/
+- 📄 **Политика конфиденциальности:** (https://joji3110.github.io/privacy-policy-aivio/)
 
 ---
 
@@ -121,7 +121,7 @@ In accordance with legal requirements and to protect rights of parties, we may r
 If you have any questions about the data deletion process:
 
 - 📧 **Email:** [adamtechkg@gmail.comp](mailto:adamtechkg@gmail.com)
-- 📄 **Privacy Policy:** [https://joji3110.github.io/privacy-policy-aivio/]
+- 📄 **Privacy Policy:** (https://joji3110.github.io/privacy-policy-aivio/)
 
 ---
 
