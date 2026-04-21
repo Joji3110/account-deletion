@@ -28,7 +28,7 @@
 
 4. **Ожидайте обработки запроса.** Мы рассмотрим запрос и отправим подтверждение на указанный email в течение **30 дней**.
 
-5. **Альтернативный способ:** вы также можете написать нам на email **support@aivio.app** с темой письма «Удаление аккаунта» и указать email вашего аккаунта.
+5. **Альтернативный способ:** вы также можете написать нам на email **adamtechkg@gmail.com** с темой письма «Удаление аккаунта» и указать email вашего аккаунта.
 
 ### Какие данные будут удалены
 
@@ -61,8 +61,8 @@
 
 Если у вас возникли вопросы по процессу удаления данных:
 
-- 📧 **Email:** [support@aivio.app](mailto:support@aivio.app)
-- 📄 **Политика конфиденциальности:** [ссылка на Privacy Policy]
+- 📧 **Email:** [adamtechkg@gmail.com](mailto:adamtechkg@gmail.com)
+- 📄 **Политика конфиденциальности:** https://joji3110.github.io/privacy-policy-aivio/
 
 ---
 
@@ -120,8 +120,8 @@ In accordance with legal requirements and to protect rights of parties, we may r
 
 If you have any questions about the data deletion process:
 
-- 📧 **Email:** [support@aivio.app](mailto:support@aivio.app)
-- 📄 **Privacy Policy:** [link to Privacy Policy]
+- 📧 **Email:** [adamtechkg@gmail.comp](mailto:adamtechkg@gmail.com)
+- 📄 **Privacy Policy:** [https://joji3110.github.io/privacy-policy-aivio/]
 
 ---
 
